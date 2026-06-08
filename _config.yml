@@ -1,0 +1,15 @@
+title: Giovanni Bonafè
+affiliation: ARPA FVG
+email: giovanni.bonafe@arpa.fvg.it
+
+google_scholar: https://scholar.google.com/citations?user=OQIY6KYAAAAJ
+github_link: https://github.com/jobonaf
+orcid: https://orcid.org/0000-0002-7815-8866
+
+avatar: ./assets/img/avatar.png
+favicon: ./assets/img/favicon.png
+
+description: Air quality scientist and R developer at ARPA FVG, Italy.
+canonical: https://jobonaf.github.io/
+
+remote_theme: yaoyao-liu/minimal-light
