@@ -4,7 +4,7 @@ layout: homepage
 
 ## About
 
-I am a researcher and software developer at [ARPA FVG](https://www.arpa.fvg.it) (Regional Environmental Protection Agency of Friuli Venezia Giulia, Italy). My work focuses on air quality monitoring, statistical modelling, and EU regulatory compliance. I am active in [FAIRMODE WG5](https://fairmode.jrc.ec.europa.eu) (Forum for Air quality Modelling in Europe).
+I am an environmental modeller and software developer at [ARPA FVG](https://www.arpa.fvg.it) (Regional Environmental Protection Agency of Friuli Venezia Giulia, Italy). My work focuses on air quality monitoring, statistical modelling, and EU regulatory compliance. I am active in [FAIRMODE](https://fairmode.jrc.ec.europa.eu) (Forum for Air quality Modelling in Europe).
 
 ## Software
 
@@ -15,11 +15,16 @@ I am a researcher and software developer at [ARPA FVG](https://www.arpa.fvg.it) 
 - **[scenario-unbias](https://github.com/jobonaf/scenario-unbias)** · [10.5281/zenodo.15188016](https://doi.org/10.5281/zenodo.15188016) — Bias correction pipeline for AQ model scenarios (FAIRMODE WG5)
 - **[riat-postproc](https://zenodo.org/record/5562244)** · [10.5281/zenodo.5562244](https://doi.org/10.5281/zenodo.5562244) — Post-processing for RIAT+ integrated assessment model
 - **[arpautils](https://zenodo.org/record/21062)** · [10.5281/zenodo.21062](https://doi.org/10.5281/zenodo.21062) — R utilities for environmental data workflows
+- **[tutorialhydrology](https://github.com/jobonaf/tutorialhydrology)** — Interactive R tutorials on hydrological data analysis, rating curves and discharge estimation (ICTP Workshop on Water Resources, Trieste)
 
 ## Data
 
 - **[Global soil type dataset for WRF-ARW (HWSD v2)](https://doi.org/10.5281/zenodo.10887545)** · Bonafè G., Bacer S., Gallai I., Montanari F. · 2024
 - **[Meteorological input data for CALMET simulations over Friuli Venezia Giulia](https://doi.org/10.5281/zenodo.6979489)** · Gallai I., Bonafè G. · 2022
+
+## Technical Documents
+
+- **[AQ Framework](https://aq-framework-snpa.readthedocs.io)** — Formal compliance framework for Directive (EU) 2024/2881 on ambient air quality; modular technical specification
 
 ## Papers
 
